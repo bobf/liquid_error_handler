@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = LiquidErrorHandler::VERSION
   spec.authors       = ['Bob Farrell']
   spec.email         = ['git@bob.frl']
+  spec.licenses      = ['MIT']
 
   spec.summary       = 'Error handling for Liquid templating language.'
   spec.description   = 'Configure error handling hooks for Liquid.'

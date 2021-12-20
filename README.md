@@ -47,3 +47,7 @@ All error handlers can be removed by calling `LiquidErrorHandler.reset`:
 ```ruby
 LiquidErrorHandler.reset
 ```
+
+## License
+
+[MIT License](LICENSE)
